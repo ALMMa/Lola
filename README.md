@@ -1,0 +1,2 @@
+# Lola
+The ultimate CMS
